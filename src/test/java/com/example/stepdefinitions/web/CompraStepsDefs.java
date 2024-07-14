@@ -76,8 +76,8 @@ public class CompraStepsDefs {
         );
         screenShot();
     }
-    @And("finalizo la compra y verifica nombre:{string},tarjeta: {string} y monto")
-    public void finalizoLaCompra(String nombre,String tarjeta) {
+    @And("finalizo la compra")
+    public void finalizoLaCompra() {
         theActorInTheSpotlight().attemptsTo(
                 new CompleteBuy()
         );

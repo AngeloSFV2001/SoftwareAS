@@ -9,4 +9,4 @@
       And verifico que sean "Samsung galaxy s6", precio "360", y precio total de la compra es "720"
       Then completo el formulario con la informacion:
       And ingreso nombre:"standard_user", pais: "Ecuador", ciudad: "Quito", tarjeta: "1234", mes: "JUNIO", anio: "2030"
-      And finalizo la compra y verifica nombre:"standard_user",tarjeta: "1234" y monto
+      And finalizo la compra

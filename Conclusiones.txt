@@ -1,0 +1,12 @@
+Conclusiones de la pagina
+No se tuvo inconsistencias en la prueba automatizada sin embargo no se pudieron hacer algunas validaciones como el
+usuario final no se pudo validar en la compra dado que este no se encontraba en texto con un identificador valido.
+Con respecto al uso de serenitybbd se tuvo una mayor facilidad de uso con respecto a selenium por la validacion de
+campos.
+
+Se recomienda hacer validación de campos del formulario de compra dado que haciendo alguna pruebas debian fallar
+para una certera función del programa
+
+
+
+
