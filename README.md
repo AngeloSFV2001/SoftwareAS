@@ -29,3 +29,8 @@ Este es un proyecto de automatización de pruebas realizadas con serenity BDD pa
 4. Información adicional
     - Se puede ver los reportes en la carpeta target -> site en varias presentaciones, pero la que se recomienda
    es abrir el archivo index.html un algun navegador.
+
+<a href="https://scan.coverity.com/projects/angelosfv2001-softwareas">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/30510/badge.svg"/>
+</a>
